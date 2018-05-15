@@ -112,3 +112,8 @@
         - Noel des pompiers au palais des sports.
 
 ## Loisirs
+- Cuisine
+- Jeux vidéo
+- Escalade
+- Yoga
+- Méditation
