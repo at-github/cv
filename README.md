@@ -1,4 +1,4 @@
-# Tarik Amar - développeur Web
+# Tarik Amar - Développeur Web
 
 > En perpétuelle formation, mon métier a pris une autre dimension en découvrant les méthodes agiles.
 Je privilégie la communication, la conception et l'approche qualité dans mon travail.
