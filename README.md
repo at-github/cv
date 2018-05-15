@@ -19,6 +19,11 @@
         - Intégration des services BackEnd pour suivre les évolutions produits coté CRM.
         - Mise en place de l'intégration continue (Travis, Phpunit, Jest, Behat).
         - Initiation à l'écriture des premiers tests automatiques de l'équipe.
+        
+- **Novembre 2015 – Octobre 2016** : Développeur BackEnd, chez Leboncoin
+    - Au sein de l'équipe BackEnd
+         - Chargé du développement des nouveaux services et API pour le domaine paiement.
+         (Api pricing, Service de jetons d'annonces gratuites)
 
 ## Expériences
 ## Formations
