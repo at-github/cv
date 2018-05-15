@@ -65,5 +65,9 @@
 - **Sebtembre 2006 – Septembre 2007** : Graphiste, chez Sofialy (alternance)
     - Graphisme, newsletters et bannières Flash.
 
+- **2002 – 2004** : Garçon de piste* & Acrobate, au cirque d'hiver Bouglione
+    - *Accessoiriste de 2002 à 2004
+    - Acrobate pour le numéro d'ouverture (Charivari)
+
 ## Formations
 ## Loisirs
