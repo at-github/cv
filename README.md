@@ -39,5 +39,11 @@
         - Intégration du compte perso.
         - Mis en place du *lazy loading* sur le listing
 
+- **Avril 2012 – Septembre 2014** : Webmaster, chez e-Stories
+    - Au sein de la startup
+        - Création et intégration de thèmes Prestashop, intégration Magento
+        - Animations JavaScript, webdesign, newsletters, design, découpage et montage de celles-ci.
+        - Montage et motion design pour des vidéos promotionnelles.
+        
 ## Formations
 ## Loisirs
