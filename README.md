@@ -69,5 +69,8 @@
     - *Accessoiriste de 2002 à 2004
     - Acrobate pour le numéro d'ouverture (Charivari)
 
+- **2003** : Technicien accessoiriste, pour Ondine production
+    - Comédie musicale Freedom
+
 ## Formations
 ## Loisirs
