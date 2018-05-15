@@ -110,6 +110,7 @@ Je privilégie la communication, la conception et l'approche qualité dans mon t
         - Centre hospitalier service dialyse des plus jeunes.
         - Animations au cirque d'Hiver Bouglione.
         - Noel de Matignon à l'opéra de Paris.
+        - Animation de "La nuit du zapping" à Bercy.
         - Noel des pompiers au palais des sports.
 
 ## Loisirs
