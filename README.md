@@ -49,6 +49,11 @@
     - Au sein de l'équipe technique
         - Intégration environnement Python & Linux ( Zope et Django template )
           pour les sites gymglish, good morning, good word et vatefaireconjuguer.
+          
+- **Sebtembre 2009 – Octobre 2010** : Développeur front, WebDesigner, en Freelance
+    - Créations de maquettes de sites vitrines et de blogs.
+    - Templates et thêmes Wordpress.
+    - Newsletters, animations de bannières Flash et motion design.
         
 ## Formations
 ## Loisirs
