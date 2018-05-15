@@ -50,12 +50,12 @@
         - Intégration environnement Python & Linux ( Zope et Django template )
           pour les sites gymglish, good morning, good word et vatefaireconjuguer.
 
-- **Sebtembre 2009 – Octobre 2010** : Développeur front, WebDesigner, en Freelance
+- **Février 2009 – Octobre 2010** : Développeur front, WebDesigner, en Freelance
     - Créations de maquettes de sites vitrines et de blogs.
     - Templates et thêmes Wordpress.
     - Newsletters, animations de bannières Flash et motion design.
 
-- **Sebtembre 2008 – Septembre 2009** : Graphiste, chez Vente-Unique
+- **Sebtembre 2007 – Septembre 2008** : Graphiste, chez Vente-Unique (alternance)
     - Retouches, montages photos et modélisation 3D pour simuler tout les modèles disponibles
     (Photoshop et Cinema 4D).
     - R&D pour des solutions de visualisation de bijoux pour Diamant-Unique
