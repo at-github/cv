@@ -45,5 +45,10 @@
         - Animations JavaScript, webdesign, newsletters, design, découpage et montage de celles-ci.
         - Montage et motion design pour des vidéos promotionnelles.
         
+- **Novembre 2010 – Janvier 2014** : Développeur front, chez gymglish
+    - Au sein de l'équipe technique
+        - Intégration environnement Python & Linux ( Zope et Django template )
+          pour les sites gymglish, good morning, good word et vatefaireconjuguer.
+        
 ## Formations
 ## Loisirs
