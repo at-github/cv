@@ -2,6 +2,8 @@
 
 ## Compétences
 
+## Expériences
+
 - **Mars 2018 – Maintenant** : Développeur Web, chez Deezer
     - Au sein de l'équipe platform/hardware
          - Évolution des api privées
@@ -24,7 +26,11 @@
     - Au sein de l'équipe BackEnd
          - Chargé du développement des nouveaux services et API pour le domaine paiement.
          (Api pricing, Service de jetons d'annonces gratuites)
+         
+- **Novembre 2014 – Octobre 2015** : Développeur Php, chez Leboncoin
+    - Au sein de l'équipe FrontEnd
+         - Chargé du développement des nouveaux services et API
+         (numéro caché, service interne de cms).
 
-## Expériences
 ## Formations
 ## Loisirs
