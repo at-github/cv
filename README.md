@@ -6,8 +6,8 @@
 
 - **Mars 2018 – Maintenant** : Développeur Web, chez Deezer
     - Au sein de l'équipe platform/hardware
-         - Évolution des api privées
-         - Évolution et maintenance du sender Chromecast
+         - Évolution des api privées.
+         - Évolution et maintenance du sender Chromecast.
          
 - **Novembre 2017 – Fêvrier 2018** : Développeur Front, chez Leboncoin
     - Au sein de la feature team BackOffice
@@ -37,11 +37,11 @@
         - Chargé des intégrations, refontes des nouveaux services/pages.
         - Mise en place du CMS coté BackOffice (CKEditor).
         - Intégration du compte perso.
-        - Mis en place du *lazy loading* sur le listing
+        - Mis en place du *lazy loading* sur le listing.
 
 - **Avril 2012 – Septembre 2014** : Webmaster, chez e-Stories
     - Au sein de la startup
-        - Création et intégration de thèmes Prestashop, intégration Magento
+        - Création et intégration de thèmes Prestashop, intégration Magento.
         - Animations JavaScript, webdesign, newsletters, design, découpage et montage de celles-ci.
         - Montage et motion design pour des vidéos promotionnelles.
 
@@ -66,11 +66,11 @@
     - Graphisme, newsletters et bannières Flash.
 
 - **2002 – 2004** : Garçon de piste* & Acrobate, au cirque d'hiver Bouglione
-    - *Accessoiriste de 2002 à 2004
-    - Acrobate pour le numéro d'ouverture (Charivari)
+    - *Accessoiriste de 2002 à 2004.
+    - Acrobate pour le numéro d'ouverture (Charivari).
 
 - **2003** : Technicien accessoiriste, pour Ondine production
-    - Comédie musicale Freedom
+    - Comédie musicale Freedom.
 
 - **2001** : Artiste acrobate, au cirque Knie (Suisse)
     - Numéro d'acrobatie d'ouverture (batoude).
