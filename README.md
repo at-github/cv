@@ -16,4 +16,9 @@
 - **2005 - 2006** : Titre Dessinateur publicitaire, Educatel
     - Apprentissage de l'histoire de l'art, l'art plastique et aux techniques publicitaires.
 
+- **2004 - 2005** : Formation Images de synthèses 3DS max Studio, Mairie de Paris
+    - Perfectionnement au logiciel 3DS max studio.
+    - Modélisation, texture et éclairage.
+    - Technique de modélisation à partir de plans d'architecte (monter les plans).
+
 ## Loisirs
