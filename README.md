@@ -44,23 +44,23 @@
         - Création et intégration de thèmes Prestashop, intégration Magento
         - Animations JavaScript, webdesign, newsletters, design, découpage et montage de celles-ci.
         - Montage et motion design pour des vidéos promotionnelles.
-        
+
 - **Novembre 2010 – Janvier 2014** : Développeur front, chez gymglish
     - Au sein de l'équipe technique
         - Intégration environnement Python & Linux ( Zope et Django template )
           pour les sites gymglish, good morning, good word et vatefaireconjuguer.
-          
+
 - **Sebtembre 2009 – Octobre 2010** : Développeur front, WebDesigner, en Freelance
     - Créations de maquettes de sites vitrines et de blogs.
     - Templates et thêmes Wordpress.
     - Newsletters, animations de bannières Flash et motion design.
-    
+
 - **Sebtembre 2008 – Septembre 2009** : Graphiste, chez Vente-Unique
     - Retouches, montages photos et modélisation 3D pour simuler tout les modèles disponibles
     (Photoshop et Cinema 4D).
     - R&D pour des solutions de visualisation de bijoux pour Diamant-Unique
     (rendu 3D avec Cinema 4d, rendu Quick-time VR et contrôle en ActionScript).
     - Graphisme Web et Newsletter pour les sites Vente-Unique & Diamant-Unique.
-        
+
 ## Formations
 ## Loisirs
