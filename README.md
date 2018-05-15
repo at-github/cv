@@ -20,5 +20,21 @@
     - Perfectionnement au logiciel 3DS max studio.
     - Modélisation, texture et éclairage.
     - Technique de modélisation à partir de plans d'architecte (monter les plans).
+    
+- **1998 - 2000** : CAP Montage en chapiteau, Lycée d'enseignement professionnel Annie Fratellini
+    - Les matières :
+        - Cours généraux.
+        - Danse classique.
+        - Acrobatie.
+        - Menuiserie.
+        - Métalerie.
+        - Électrotechnique.
+        - Montage en chapiteau.
+        
+    - Les animations :
+        - Centre hospitalier service dialyse des plus jeunes.
+        - Animations au cirque d'Hiver Bouglione.
+        - Noel de Matignon à l'opéra de Paris.
+        - Noel des pompiers au palais des sports.
 
 ## Loisirs
