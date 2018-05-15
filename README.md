@@ -7,4 +7,10 @@
     - Développement objet en AS3, JavaScript et Php.
     - Création d'un portfolio photo avec BackOffice
     (multi upload de fichier via Flash + Php, extraction des données EXIF et IPTC pour les données éditoriales)
+
+- **2006 - 2007** : BEP Opérateur en infographie, au CNA CEFAG
+    - Validation des acquis via ce diplôme d'infographie.
+    - Apprentissage de la chaîne de production print.
+    - Premiers pas en dévelopement Web. Html, Css & JavaScript.
+
 ## Loisirs
