@@ -72,5 +72,8 @@
 - **2003** : Technicien accessoiriste, pour Ondine production
     - Comédie musicale Freedom
 
+- **2001** : Artiste acrobate, au cirque Knie (Suisse)
+    - Numéro d'acrobatie d'ouverture (batoude).
+
 ## Formations
 ## Loisirs
