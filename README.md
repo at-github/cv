@@ -62,5 +62,8 @@
     (rendu 3D avec Cinema 4d, rendu Quick-time VR et contrôle en ActionScript).
     - Graphisme Web et Newsletter pour les sites Vente-Unique & Diamant-Unique.
 
+- **Sebtembre 2006 – Septembre 2007** : Graphiste, chez Sofialy (alternance)
+    - Graphisme, newsletters et bannières Flash.
+
 ## Formations
 ## Loisirs
