@@ -24,13 +24,20 @@
         
 - **Novembre 2015 – Octobre 2016** : Développeur BackEnd, chez Leboncoin
     - Au sein de l'équipe BackEnd
-         - Chargé du développement des nouveaux services et API pour le domaine paiement.
-         (Api pricing, Service de jetons d'annonces gratuites)
+         - Chargé du développement des nouveaux services et API pour le domaine paiement
+         (Api pricing, Service de jetons d'annonces gratuites).
          
 - **Novembre 2014 – Octobre 2015** : Développeur Php, chez Leboncoin
     - Au sein de l'équipe FrontEnd
          - Chargé du développement des nouveaux services et API
          (numéro caché, service interne de cms).
+
+- **Novembre 2012 – Octobre 2014** : Développeur Front, chez Leboncoin
+    - Au sein de l'équipe FrontEnd
+        - Chargé des intégrations, refontes des nouveaux services/pages.
+        - Mise en place du CMS coté BackOffice (CKEditor).
+        - Intégration du compte perso.
+        - Mis en place du *lazy loading* sur le listing
 
 ## Formations
 ## Loisirs
